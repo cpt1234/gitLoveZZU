@@ -5,8 +5,8 @@ demo02
 demo3
 demo05
 devtest
-<<<<<<< HEAD
-master
-=======
-featurel
->>>>>>> featurel
+AAAAAAA
+
+
+
+
